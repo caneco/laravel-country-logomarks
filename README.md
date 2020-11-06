@@ -23,7 +23,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 - [Caneco](https://github.com/caneco)
 - [All contributors](https://github.com/caneco/laravel-country-logomarks/contributors)
 
-[Laravel](https://laravel.com) brand trademark of [Taylor Otwell], and designed by [Focus Lab's](https://focuslabllc.com/case-studies/laravel).
+[Laravel](https://laravel.com) it's a trademark of [Taylor Otwell](http://twitter.com/taylorotwell) and designed by [Focus Lab's](https://focuslabllc.com/case-studies/laravel).
 
 ## License
 
