@@ -1,4 +1,4 @@
-<!-- TODO: add general banner (gif?) -->
+<p align="center"><img src="/art/header.gif" alt="Laravel Country Logomarks"></p>
 
 # Laravel Country Logomarks
 
