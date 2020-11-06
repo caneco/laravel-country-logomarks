@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="209" viewBox="0 0 200 209">
+    <style>.black{fill:#262626}.red{fill:#e21515}.yellow{fill:#ffd51f}</style>
+    <path role="TL" class="black" d="M1 21l38 22 38-22-38-21z"/>
+    <path role="TR" class="black" d="M124 45l37 21 38-21-38-22z"/>
+    <path role="OL" class="red" d="M0 164l78 45v-43l-41-24v-95l-37-22z"/>
+    <path role="OR" class="black" d="M163 70v44l37-22-.1-43z"/>
+    <path role="OB" class="yellow" d="M82 166v43l77-45v-43z"/>
+    <path role="IL" class="yellow" d="M41 47v90l37-22v-90z"/>
+    <path role="IR" class="red" d="M122 92l37 22v-44l-37-21z"/>
+    <path role="IB" class="red" d="M42.5 140.5l37.5 21.5 77-44.5-37-22.5z"/>
+</svg>

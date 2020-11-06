@@ -12,11 +12,11 @@ The logo is using the following fonts:
 
 ## Colors
 
-|                                                                                                               |#hex    |rgb()             |
-|---                                                                                                            |---     |---               |
-|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:6da544,e_colorize:100,f_png/v1/pallete.svg)|`#6da544`|`rgb(109,165,61)` |
-|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:d80327,e_colorize:100,f_png/v1/pallete.svg)|`#d80327`|`rgb(216,3,39)`   |
-|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:ffda44,e_colorize:100,f_png/v1/pallete.svg)|`#ffda44`|`rgb(255,218,68)` |
+|                                                                                                               |#hex    |rgb()              |
+|---                                                                                                            |---     |---                |
+|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:6da544,e_colorize:100,f_png/v1/pallete.svg)|`#6da544`|`rgb(109,165,61)`  |
+|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:ffda44,e_colorize:100,f_png/v1/pallete.svg)|`#ffda44`|`rgb(255,218,68)`  |
+|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:d80327,e_colorize:100,f_png/v1/pallete.svg)|`#d80327`|`rgb(216,3,39)`    |
 
 ## Requirements
 
