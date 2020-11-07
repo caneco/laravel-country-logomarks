@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1 - 2020-11-09
+
+- fixed jpg avatars to white background
+
 ## 1.1.0 - 2020-11-06
 
 - changed Portugal's assets
