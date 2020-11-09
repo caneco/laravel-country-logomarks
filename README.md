@@ -36,8 +36,8 @@ All rights reserved, but with the following extra conditions:
     - To illustrate a commercial product.
 
 - It is **NOT OK** to use any Laravel Country Logomarks in the following cases without prior written consent from the copyright owners:
-    - Using a any Laravel Country Logomark in a commercial product for purposes other than illustrating its integration.
-    - Sell physical products that uses a any Laravel Country Logomark or its variants, e.g. t-shirts.
+    - Using a Laravel Country Logomark in a commercial product for purposes other than illustrating its integration.
+    - Sell physical products that use a Laravel Country Logomark or its variants, e.g. t-shirts.
 
 By any means the owner reserves the right of final explanation for any use case not explicitly stated above.
 
