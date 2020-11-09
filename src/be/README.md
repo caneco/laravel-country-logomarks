@@ -1,4 +1,4 @@
-<p align="center"><img src="/src/pt/socialcard.png" alt="Laravel Belgium Logomark"></p>
+<p align="center"><img src="/src/be/socialcard.png" alt="Laravel Belgium Logomark"></p>
 
 # Laravel Belgium Logomark
 

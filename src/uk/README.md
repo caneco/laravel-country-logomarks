@@ -1,6 +1,6 @@
-<p align="center"><img src="/src/pt/socialcard.png" alt="Laravel United Kingdom Logomark"></p>
+<p align="center"><img src="/src/uk/socialcard.png" alt="Laravel UK Logomark"></p>
 
-# Laravel United Kingdom Logomark
+# Laravel UK Logomark
 
 The Logomark was crafted and design from the official [Laravel](https://github.com/laravel/art) brand.
 

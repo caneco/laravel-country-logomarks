@@ -1,4 +1,4 @@
-<p align="center"><img src="/src/pt/socialcard.png" alt="Laravel Nigeria Logomark"></p>
+<p align="center"><img src="/src/ng/socialcard.png" alt="Laravel Nigeria Logomark"></p>
 
 # Laravel Nigeria Logomark
 
