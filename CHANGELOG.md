@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.0 - 2020-11-11
+
+- added Laravel Bangladesh Logomark
+- added Laravel Guatemala Logomark
+
 ## 1.1.1 - 2020-11-09
 
 - fixed jpg avatars to white background
