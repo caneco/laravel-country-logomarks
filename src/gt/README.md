@@ -1,8 +1,8 @@
-<p align="center"><img src="/src/us/socialcard.png" alt="Laravel US Logomark"></p>
+<p align="center"><img src="/src/nl/socialcard.png" alt="Laravel Guatemala Logomark"></p>
 
-# Laravel US Logomark
+# Laravel Guatemala Logomark
 
-The Logomark was crafted and design from the official [Laravel](https://github.com/laravel/art) brand.
+The Logomark was crafted and designed from the official [Laravel](https://github.com/laravel/art) brand.
 
 ## Fonts
 
@@ -11,12 +11,12 @@ The logo is using the following fonts:
 - [Mulish 900](https://fonts.google.com/specimen/Mulish#900)
 
 ## Colors
-
 |                                                                                                               |#hex    |rgb()             |
 |---                                                                                                            |---     |---               |
-|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:0052b4,e_colorize:100,f_png/v1/pallete.svg)|`#0052b4`|`rgb(0,82,180)`   |
-|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:d02f44,e_colorize:100,f_png/v1/pallete.svg)|`#d02f44`|`rgb(208,47,68)`  |
+|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:13b0e6,e_colorize:100,f_png/v1/pallete.svg)|`#13b0e6`|`rgb(19,176,230)` |
 |![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:e2e8f0,e_colorize:100,f_png/v1/pallete.svg)|`#e2e8f0`|`rgb(226,232,240)`|
+|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:498b37,e_colorize:100,f_png/v1/pallete.svg)|`#498b37`|`rgb(73,139,55)`  |
+|![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:e6c368,e_colorize:100,f_png/v1/pallete.svg)|`#e6c368`|`rgb(230,195,104)`|
 
 ## Requirements
 
