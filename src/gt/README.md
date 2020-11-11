@@ -1,4 +1,4 @@
-<p align="center"><img src="/src/nl/socialcard.png" alt="Laravel Guatemala Logomark"></p>
+<p align="center"><img src="/src/gt/socialcard.png" alt="Laravel Guatemala Logomark"></p>
 
 # Laravel Guatemala Logomark
 
