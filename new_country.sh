@@ -24,10 +24,10 @@ country_code=$(ask "Country code?")
 country_code=`echo "$country_code" | tr '[:upper:]' '[:lower:]'`
 country_path="$current_directory/src/$country_code"
 
-# if [ -d "$current_directory/src/$country_code" ] ; then
-#     echo "Country folder already exists!"
-#     $safe_exit 1
-# fi
+if [ -d "$current_directory/src/$country_code" ] ; then
+    echo "Country folder already exists!"
+    $safe_exit 1
+fi
 
 country_name=$(ask "Country name?")
 echo "Country: $country_name"
