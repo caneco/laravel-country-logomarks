@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.5.0 - 2020-11-14
+
+- added Laravel Pakistan Logomark
+- added new_country.sh automation
+
+## 1.4.0 - 2020-11-12
+
+- added Laravel Indonesia Logomark
+
+## 1.3.0 - 2020-11-12
+
+- added Laravel Greece Logomark
+
 ## 1.2.0 - 2020-11-11
 
 - added Laravel Bangladesh Logomark
