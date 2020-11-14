@@ -1,4 +1,4 @@
-<p align="center"><img src="/src/id/socialcard.png" alt="Laravel :country_name Logomark"></p>
+<p align="center"><img src="/src/:country_code/socialcard.png" alt="Laravel :country_name Logomark"></p>
 
 # Laravel :country_name Logomark
 
@@ -9,6 +9,7 @@ The Logomark was crafted and design from the official [Laravel](https://github.c
 The logo is using the following fonts:
 
 - [Mulish 900](https://fonts.google.com/specimen/Mulish#900)
+
 
 ## Colors
 

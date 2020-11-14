@@ -38,7 +38,10 @@ files=$(grep -E -r -l -i ":country_name" $country_path/*)
 for file in $files ; do
     echo "UPDATING: $file"
     temp_file="$file.temp"
-    < "$file" sed "s/:country_name/$country_name/g" > "$temp_file"
+    < "$file" \
+      sed "s/:country_code/$country_code/g" \
+    | sed "s/:country_name/$country_name/g" \
+    > "$temp_file"
     rm -f "$file"
     mv "$temp_file" "$file"
 done
