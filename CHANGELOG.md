@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.0 - 2020-11-16
+
+- added Laravel Canada Logomark
+- added Laravel Malaysia Logomark
+
 ## 1.5.0 - 2020-11-14
 
 - added Laravel Pakistan Logomark
