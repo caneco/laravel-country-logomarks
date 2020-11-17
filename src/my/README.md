@@ -10,7 +10,6 @@ The logo is using the following fonts:
 
 - [Mulish 900](https://fonts.google.com/specimen/Mulish#900)
 
-
 ## Colors
 
 |                                                                                                               |#hex    |rgb()            |

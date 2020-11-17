@@ -11,6 +11,7 @@ The logo is using the following fonts:
 - [Mulish 900](https://fonts.google.com/specimen/Mulish#900)
 
 ## Colors
+
 |                                                                                                               |#hex    |rgb()             |
 |---                                                                                                            |---     |---               |
 |![0](https://res.cloudinary.com/caneco/image/upload/c_scale,co_rgb:1c6dc1,e_colorize:100,f_png/v1/pallete.svg)|`#1c6dc1`|`rgb(28,109,193)` |
