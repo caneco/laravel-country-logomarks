@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.9.0 - 2020-11-22
+
+- added Laravel Mexico Logomark
+- added Laravel Poland Logomark
+
+## 1.8.0 - 2020-11-19
+
+- added Laravel Ghana Logomark
+- added Laravel Italy Logomark
+- added Laravel Czech Republic Logomark
+
+## 1.7.0 - 2020-11-17
+
+- added Laravel Cameroon Logomark
+
+## 1.6.0 - 2020-11-16
+
+- added Laravel Canada Logomark
+- added Laravel Malaysia Logomark
+
 ## 1.5.0 - 2020-11-14
 
 - added Laravel Pakistan Logomark
